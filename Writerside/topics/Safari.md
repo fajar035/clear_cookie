@@ -1,3 +1,0 @@
-# Safari
-
-Start typing here...
