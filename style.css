@@ -4,9 +4,15 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
 
 .title {
   font-size: 20px;
   font-family: "Fira Code", monospace;
+}
+
+.image-1 {
+  object-fit: cover;
+  border-radius: 20px;
 }
